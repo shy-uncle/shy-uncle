@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**shy-uncle/shy-uncle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently 
+PHP / JavaScript / AWS を学習・整理中です。
 
-Here are some ideas to get you started:
+## About
+- 上流工程、社内SE、Webサイト立ち上げを経験
+- GitHubで成果物を整理中
+- Webエンジニア志望
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- PHP
+- JavaScript
+- HTML / CSS / SCSS
+- AWS
+- Git / GitHub
+
+## Projects
+- 商品紹介ページのテンプレート化
+- CSSのSCSSリファクタリング
